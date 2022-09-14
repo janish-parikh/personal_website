@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python','Java','JavaScript (ES6+)','React','Dash'];
+  const skills = ['Python','SQL','R','AWS Sagemkaer','PySpark'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,23 +136,26 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Vamshi and I enjoy creating things that live on the internet. My
-              interest in software development started back in 2015 when I decided to try editing custom
-              WordPress themes for a blog — turns out hacking together a custom logos and branding taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Janish and I aspire to be a Full Stack Data Scienitst.
+            </p>
+              
+            <p>
+              My dedication and consistency has transformed me into a talented data scientist, with proficiency in Python, SQL, and libraries associated with machine learning and neural networks such as TensorFlow and Scikit-learn. 
+            <p>
+
+            </p>
+              I work well independently as well as cross-functionally, with projects ranging from pre-emptively 
+              detecting Vegetation Failures, 
+              Cyber-Situational Awareness, and using GANs for Image to Image Trnaslation. 
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working in{' '}
               
-              <a href="https://starry.com/"> start-ups</a>,{' '}
-              <a href="https://www.apple.com/"> huge corporation's</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">contribute to cancer research </a>. My
-              main focus these days is building accessible, high perfomant systems inclusive of all parts of the stack(Frontend+Backend+Database+Deployment). 
-            </p>
-
-            <p>
-              I also recently  have been building data streams for huge computational anaylis and real time analytics deriving some key insights which is quite exciting.
+              <a href="https://www.cosgrid.com/home"> start-ups</a>,{' '}
+              <a href="https://www.onpointsolutions.com/about/"> huge corporation's</a>, and{' '}
+              <a href="https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/data-science-capstone-project-2">work alonside professors to design course </a>.
+              "All ML models are bad, but some are useful"; and I am fueled by builiding useful, trustable, and ethical AI Models.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

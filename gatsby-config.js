@@ -2,10 +2,10 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Vamshi Saggurthi',
+    title: 'Janish Parikh',
     description:
-      'Vamshi is a full stack software engineer who specializes in building end to end applications in python+react (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://vamshisaggurthi.com', // No trailing slash allowed!
+      'Janish aspires to be a Full Stack Data Scientist and is proficient is Statistics, Python, SQL, R, and AWS.',
+    siteUrl: 'https://janishparikh.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
   },
   plugins: [
@@ -19,8 +19,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Vamshi Saggurthi',
-        short_name: 'Vamshi Saggurthi',
+        name: 'Janish Parikh',
+        short_name: 'Janish Parikh',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,

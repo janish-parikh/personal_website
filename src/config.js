@@ -1,16 +1,22 @@
 module.exports = {
-  email: 'vamshi.saggurthi@rutgers.edu',
+  email: 'janish.parikh@rutgers.edu',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/Vamshi900/',
+      url: 'https://github.com/janish-parikh',
     },
 
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/vamshi96/',
+      url: 'https://www.linkedin.com/in/janish-parikh/',
     },
+
+    {
+      name: 'RPubs',
+      url: 'https://rpubs.com/Ansh_Ji',
+    },
+
 
   ],
 

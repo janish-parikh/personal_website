@@ -17,7 +17,7 @@ var plugins = [{
     },{
       name: 'gatsby-plugin-manifest',
       plugin: require('/Users/janishparikh/personal_website/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Vamshi Saggurthi","short_name":"Vamshi Saggurthi","start_url":"/","background_color":"#020c1b","theme_color":"#0a192f","display":"minimal-ui","icon":"src/images/logo.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"beacb014a6848bb9c48d0b0436f765d2"},
+      options: {"plugins":[],"name":"Janish Parikh","short_name":"Janish Parikh","start_url":"/","background_color":"#020c1b","theme_color":"#0a192f","display":"minimal-ui","icon":"src/images/logo.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"beacb014a6848bb9c48d0b0436f765d2"},
     },{
       name: 'gatsby-plugin-offline',
       plugin: require('/Users/janishparikh/personal_website/node_modules/gatsby-plugin-offline/gatsby-ssr'),

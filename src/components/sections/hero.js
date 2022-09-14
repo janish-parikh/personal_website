@@ -59,12 +59,12 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Vamshi Saggurthi.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const two = <h2 className="big-heading">Jniash Parikh.</h2>;
+  const three = <h3 className="big-heading">I am Data Scienitst.</h3>;
   const four = (
     <>
       <p>
-        I’m a New York based software engineer specializing in building (and occasionally designing) exceptional digital experiences and seamless data flows.Currently purusing  master's in CS @Rutgers University Graduating in May 2023.
+        I’m a New York based Data Scientist; I’m ever passionate about solving creatively practical problems with my technical background. Currently purusing master's in CS @Rutgers University Graduating in May 2023.
       </p>
     </>
   );

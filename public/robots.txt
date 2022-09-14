@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://vamshisaggurthi.com/sitemap/sitemap-index.xml
-Host: https://vamshisaggurthi.com
+Sitemap: https://janishparikh.com/sitemap/sitemap-index.xml
+Host: https://janishparikh.com
