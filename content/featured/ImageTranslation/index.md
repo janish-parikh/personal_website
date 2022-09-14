@@ -7,9 +7,8 @@ cta: ''
 tech:
   - Pytorch
   - Weights & Biases
-  - Cycle GAN 
+  - Cycle GAN
   - Pix2Pix
-  - Vanilla GAN
 ---
 Developed Supervised and Unsupervised Image to Image Translations GANs to translate Street View Images into Aerial View Images and Real Pizza Images into Synthetic Pizza Images and vice versa. 
 This method could be further used for picture enhancement and style transfer.
