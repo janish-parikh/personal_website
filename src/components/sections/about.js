@@ -146,16 +146,17 @@ const About = () => {
             </p>
               I work well independently as well as cross-functionally, with projects ranging from pre-emptively 
               detecting Vegetation Failures, 
-              Cyber-Situational Awareness, and using GANs for Image to Image Trnaslation. 
+              Cyber-Situational Awareness, and using GANs for Image to Image Translation. 
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working in{' '}
               
               <a href="https://www.cosgrid.com/home"> start-ups</a>,{' '}
-              <a href="https://www.onpointsolutions.com/about/"> huge corporation's</a>, and{' '}
-              <a href="https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/data-science-capstone-project-2">work alonside professors to design course </a>.
-              "All ML models are bad, but some are useful"; and I am fueled by builiding useful, trustable, and ethical AI Models.
+              <a href="https://www.onpointsolutions.com/about/"> huge corporations</a>, and{' '}
+              <a href="https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/data-science-capstone-project-2">work alonside professors to design course.</a>
+              "All ML models are bad, but some are useful"; 
+              and I am fueled by builiding useful, trustable, and ethical AI Models.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

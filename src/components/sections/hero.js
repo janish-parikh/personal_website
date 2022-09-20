@@ -64,7 +64,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a New York based Data Scientist; I’m ever passionate about solving creatively practical problems with my technical background. Currently purusing master's in CS @Rutgers University Graduating in May 2023.
+        I’m a New York based Data Scientist; I’m ever passionate about solving creatively practical problems with my technical background. Currently pursuing my master's in CS @Rutgers University Graduating in May 2023.
       </p>
     </>
   );

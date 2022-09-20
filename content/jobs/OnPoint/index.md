@@ -1,7 +1,7 @@
 ---
 date: '2022-08-13'
 title: 'Data Scienctist Intern'
-company: 'OnPoint - A Koch Engineered Solutions Company'
+company: 'OnPoint'
 location: 'Wichita, KS'
 range: 'May 2022 - Aug 2022'
 url: 'https://www.onpointsolutions.com/'
