@@ -204,7 +204,7 @@ const Nav = ({ isHome }) => {
             <TransitionGroup component={null}>
               {isMounted && (
                 <CSSTransition classNames={fadeClass} timeout={timeout}>
-                  <>{Logo}</>
+                  <label>JP</label>
                 </CSSTransition>
               )}
             </TransitionGroup>
