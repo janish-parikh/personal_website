@@ -158,11 +158,8 @@ const About = () => {
               
               <a href="https://www.cosgrid.com/home"> start-ups</a>,{' '}
               <a href="https://www.onpointsolutions.com/about/"> huge corporations</a>, and{' '}
-              <a href="https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/data-science-capstone-project-2">work alonside professors to design course.</a>
-              "All ML models are bad, but some are useful"; 
-              and I am fueled by builiding useful, trustable, and ethical AI Models.
+              <a href="https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/data-science-capstone-project-2">individual research with professors.</a>
             </p>
-
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
 
