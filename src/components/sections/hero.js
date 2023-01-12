@@ -60,11 +60,11 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Janish Parikh.</h2>;
-  const three = <h3 className="big-heading">I am a Data Scienitst.</h3>;
+  const three = <h3 className="big-heading">I'm a New York-based aspiring Data Scientist</h3>;
   const four = (
-    <>
+    <> 
       <p>
-        I’m a New York based Data Scientist; I’m ever passionate about solving creatively practical problems with my technical background. Currently pursuing my master's in CS @Rutgers University Graduating in May 2023.
+      I will be graduating with a Master's of Computer Science from @Rutgers University with a background in Machine Learning and Artificial intelligence. Following my graduation in May 2023 I am looking for Full Time Opportunities in Data Science and Analytics Space.
       </p>
     </>
   );

@@ -136,9 +136,13 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Janish and I aspire to be a Full Stack Data Scienitst.
+              Hello! My name is Janish and I aspire to be a Data Scienitst.
+              Numbers are my best friend (not literally--I have real friends too, I promise).
             </p>
-              
+            <p>
+              What led me to data science was the discovery that numbers are not only for solving problems, but for telling beautiful stories as well. Through it all, it's been that aha! feeling from making sense of messiness that has brought me joy while also motivating me to continuously seek new challenges.
+            </p>
+
             <p>
               My dedication and consistency has transformed me into a talented data scientist, with proficiency in Python, SQL, and libraries associated with machine learning and neural networks such as TensorFlow and Scikit-learn. 
             <p>
