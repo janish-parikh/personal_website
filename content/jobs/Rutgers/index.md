@@ -8,5 +8,7 @@ url: 'https://www.cs.rutgers.edu/'
 cover: './logo.png'
 ---
 
-- I taught students about Data Analytics, Statistical Modeling, and Machine Learning Algorithms using Python/R and guided them through their Capstone Project in Data Science
-- Conducted regular lectures, interactive sessions for clarifying doubts and graded exams and assignments
+- Taught over three hundred students about Data Analytics, Statistical Modeling, and Machine Learning using Python/R
+- Proposed projects and curricula for courses, Data Science Capstone Project and Algorithms in the Wild
+- Created anonymized datasets and test environments to simulate and evaluate algorithms for Roommate Matching
+- Designed python packages to perform Geospatial analysis, Redistricting, and evaluate Gerrymandering

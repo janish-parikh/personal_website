@@ -4,13 +4,13 @@ const preferDefault = m => (m && m.default) || m
 
 
 exports.components = {
-  "component---cache-dev-404-page-js": preferDefault(require("/Users/janishparikh/Downloads/Job/personal_website/.cache/dev-404-page.js")),
-  "component---src-pages-404-js": preferDefault(require("/Users/janishparikh/Downloads/Job/personal_website/src/pages/404.js")),
-  "component---src-pages-archive-js": preferDefault(require("/Users/janishparikh/Downloads/Job/personal_website/src/pages/archive.js")),
-  "component---src-pages-index-js": preferDefault(require("/Users/janishparikh/Downloads/Job/personal_website/src/pages/index.js")),
-  "component---src-pages-pensieve-index-js": preferDefault(require("/Users/janishparikh/Downloads/Job/personal_website/src/pages/pensieve/index.js")),
-  "component---src-pages-pensieve-tags-js": preferDefault(require("/Users/janishparikh/Downloads/Job/personal_website/src/pages/pensieve/tags.js")),
-  "component---src-templates-post-js": preferDefault(require("/Users/janishparikh/Downloads/Job/personal_website/src/templates/post.js")),
-  "component---src-templates-tag-js": preferDefault(require("/Users/janishparikh/Downloads/Job/personal_website/src/templates/tag.js"))
+  "component---cache-dev-404-page-js": preferDefault(require("/Users/janishparikh/Downloads/personal_website-2/.cache/dev-404-page.js")),
+  "component---src-pages-404-js": preferDefault(require("/Users/janishparikh/Downloads/personal_website-2/src/pages/404.js")),
+  "component---src-pages-archive-js": preferDefault(require("/Users/janishparikh/Downloads/personal_website-2/src/pages/archive.js")),
+  "component---src-pages-index-js": preferDefault(require("/Users/janishparikh/Downloads/personal_website-2/src/pages/index.js")),
+  "component---src-pages-pensieve-index-js": preferDefault(require("/Users/janishparikh/Downloads/personal_website-2/src/pages/pensieve/index.js")),
+  "component---src-pages-pensieve-tags-js": preferDefault(require("/Users/janishparikh/Downloads/personal_website-2/src/pages/pensieve/tags.js")),
+  "component---src-templates-post-js": preferDefault(require("/Users/janishparikh/Downloads/personal_website-2/src/templates/post.js")),
+  "component---src-templates-tag-js": preferDefault(require("/Users/janishparikh/Downloads/personal_website-2/src/templates/tag.js"))
 }
 

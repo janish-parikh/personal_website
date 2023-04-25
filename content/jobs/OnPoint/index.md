@@ -8,9 +8,8 @@ url: 'https://www.onpointsolutions.com/'
 cover: './logo.png'
 ---
 
-- Researched and developed SOTA Machine Learning Models using waveform data to predict electrical network
-equipment failure before time
-- Conducted research to test multiple hypothesis and effectively communicated the findings to key stakeholders
-- For predicting vegetation failures, improved the Balance Accuracy Score by 11% and the Precision Score for the critical class by 4% by performing feature engineering, outlier treatment, complex model evaluation and hyperparameter tuning
-- Collaborated with multivariate teams to insert trained models and gauge performance improvement
-- Streamlined and optimized data analysis/visualization and data preparation pipelines using Dask, Vaex, Plotly and SHAP
+-  Developed a user focused cascaded ML model to detect failures in an electrical grid network, using an ensemble model and an exponential smoothening model, resulting in a 11% increase in Balanced Accuracy and a 4% increase in the Precision Score for the critical class over the existing
+- Translated complex business requirements into comprehensive loss functions, and utilized exponential smoothening and other time series models aimed at increasing reliability, and user confidence in the ML predictions
+- Deployed the model into production enabling live monitoring that allowed predicting vegetation failure in NZ beforehand
+- Optimized the data preparation pipelines by leveraging Dask’s lazy evaluation technique, resulting in a 5x reduction in computational costs and significantly increasing the speed of data processing
+- Led two data scientists’ collaboration sessions on ‘Detecting Drift in Data’ and ‘Scaling Pandas’
