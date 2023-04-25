@@ -266,9 +266,6 @@ const StyledProject = styled.li`
         outline: 0;
 
         &:before,
-        .img {
-          background: transparent;
-          filter: none;
         }
       }
 
@@ -287,11 +284,6 @@ const StyledProject = styled.li`
         mix-blend-mode: screen;
       }
     }
-
-    .img {
-      border-radius: var(--border-radius);
-      mix-blend-mode: multiply;
-      filter: grayscale(100%) contrast(1) brightness(90%);
 
       @media (max-width: 768px) {
         object-fit: cover;
