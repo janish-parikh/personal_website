@@ -3,19 +3,25 @@ import PropTypes from 'prop-types';
 import { Helmet } from 'react-helmet';
 import { useLocation } from '@reach/router';
 import { useStaticQuery, graphql } from 'gatsby';
-import ReactGA from "react-ga";
+import ReactGA from "react-ga4";
 
 const TRACKING_ID = "G-YZ99J5TXXP"; // OUR_TRACKING_ID
-ReactGA.initialize(TRACKING_ID);
 
-ReactGA.initialize(TRACKING_ID);
+ReactGA.initialize([
+  {
+    trackingId: TRACKING_ID,
+  },
+]);
+
 
 // https://www.gatsbyjs.com/docs/add-seo-component/
 
 const Head = ({ title, description, image }) => {
 
   useEffect(() => {
-    ReactGA.pageview(window.location.pathname + window.location.search);
+    console.log('Head is loadead')
+    ReactGA.send({ hitType: "pageview", page: "/home", title: "website opened" });
+    console.log('EVenet sent')
   }, []);
    
   const { pathname } = useLocation();
