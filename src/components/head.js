@@ -19,9 +19,7 @@ ReactGA.initialize([
 const Head = ({ title, description, image }) => {
 
   useEffect(() => {
-    console.log('Head is loadead')
     ReactGA.send({ hitType: "pageview", page: "/home", title: "website opened" });
-    console.log('EVenet sent')
   }, []);
    
   const { pathname } = useLocation();
