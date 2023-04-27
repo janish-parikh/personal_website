@@ -3,10 +3,16 @@ import PropTypes from 'prop-types';
 import { Helmet } from 'react-helmet';
 import { useLocation } from '@reach/router';
 import { useStaticQuery, graphql } from 'gatsby';
+import useAnalyticsEventTracker from './useAnalyticsEventTracker';
+
+
 
 // https://www.gatsbyjs.com/docs/add-seo-component/
 
 const Head = ({ title, description, image }) => {
+  const gaEventTracker = useAnalyticsEventTracker('Head');
+
+  gaEventTracker('Head loaded')
   const { pathname } = useLocation();
 
   const { site } = useStaticQuery(
