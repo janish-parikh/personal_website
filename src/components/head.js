@@ -1,18 +1,23 @@
-import React from 'react';
+import React,{useEffect } from 'react';
 import PropTypes from 'prop-types';
 import { Helmet } from 'react-helmet';
 import { useLocation } from '@reach/router';
 import { useStaticQuery, graphql } from 'gatsby';
-import useAnalyticsEventTracker from './useAnalyticsEventTracker';
+import ReactGA from "react-ga";
 
+const TRACKING_ID = "G-YZ99J5TXXP"; // OUR_TRACKING_ID
+ReactGA.initialize(TRACKING_ID);
 
+ReactGA.initialize(TRACKING_ID);
 
 // https://www.gatsbyjs.com/docs/add-seo-component/
 
 const Head = ({ title, description, image }) => {
-  const gaEventTracker = useAnalyticsEventTracker('Head');
 
-  gaEventTracker('Head loaded')
+  useEffect(() => {
+    ReactGA.pageview(window.location.pathname + window.location.search);
+  }, []);
+   
   const { pathname } = useLocation();
 
   const { site } = useStaticQuery(
