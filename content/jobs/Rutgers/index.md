@@ -1,6 +1,6 @@
 ---
 date: '2022-09-14'
-title: 'Graduate Teaching Assistant'
+title: 'Data Scientist'
 company: 'Rutgers University'
 location: 'New Brunswick, NJ'
 range: 'Sep 2021 - Present'
@@ -8,7 +8,6 @@ url: 'https://www.cs.rutgers.edu/'
 cover: './logo.png'
 ---
 
-- Taught over three hundred students about Data Analytics, Statistical Modeling, and Machine Learning using Python/R
-- Proposed projects and curricula for courses, Data Science Capstone Project and Algorithms in the Wild
-- Created anonymized datasets and test environments to simulate and evaluate algorithms for Roommate Matching
-- Designed python packages to perform Geospatial analysis, Redistricting, and evaluate Gerrymandering
+-	Built data pipelines and tools for geospatial analysis and computing metrics for quantifying gerrymandering, providing valuable insights into the socio-political impacts of redistricting.
+-	Developed projects to provide students with experience in real-world data analysis, machine learning and data storytelling.
+-	Created anonymized datasets and test environments to simulate and evaluate algorithms for Roommate Matching.

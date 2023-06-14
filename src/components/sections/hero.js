@@ -64,7 +64,7 @@ const Hero = () => {
   const four = (
     <> 
       <p>
-      I will be graduating with a Master's of Computer Science from @Rutgers University with a background in Machine Learning and Artificial intelligence. Following my graduation in May 2023 I am looking for Full Time Opportunities in Data Science and Analytics Space.
+      I have 2+ years of experience in Predictive Modelling, Machine Learning Algorithms, Time Series Analysis, Data Visualization, Process Optimization techniques, and Anomaly Detection and a Master's in Computer Science (Specialization : Machine Learning and Artificial Intelligence) from Rutgers University.
       </p>
     </>
   );

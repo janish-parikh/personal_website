@@ -114,7 +114,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python','SQL','R','AWS Sagemkaer','PySpark'];
+  const skills = ['Python','SQL','R','AWS','PySpark', 'Tableau'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -124,7 +124,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Janish and I aspire to be a Data Scienitst.
+              Hello! My name is Janish and I am an experienced and passionate Data Scientist.
               Numbers are my best friend (not literally--I have real friends too, I promise).
             </p>
             <p>
@@ -143,7 +143,6 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working in{' '}
-              
               <a href="https://www.cosgrid.com/home"> start-ups</a>,{' '}
               <a href="https://www.onpointsolutions.com/about/"> huge corporations</a>, and{' '}
               <a href="https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/data-science-capstone-project-2">individual research with professors.</a>
