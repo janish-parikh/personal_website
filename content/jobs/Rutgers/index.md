@@ -3,7 +3,7 @@ date: '2022-09-14'
 title: 'Data Scientist'
 company: 'Rutgers University'
 location: 'New Brunswick, NJ'
-range: 'Sep 2021 - Present'
+range: 'Sep 2021 - May 2023'
 url: 'https://www.cs.rutgers.edu/'
 cover: './logo.png'
 ---

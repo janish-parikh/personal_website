@@ -3,7 +3,7 @@ date: '2022-08-01'
 title: 'Data Scientist'
 company: 'COSGrid Networks'
 location: 'Chennai, IN'
-range: 'Jan 2022 - Aug 2022'
+range: 'Jan 2021 - Aug 2021'
 url: 'https://www.cosgrid.com/'
 cover: './logo.png'
 ---
